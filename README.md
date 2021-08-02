@@ -18,7 +18,7 @@ Olá, eu amo programar, resolver problemas e criar soluções da forma mais simp
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grachetp&show_icons=true&theme=midnight-purple"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=grachetp&show_icons=true&theme=midnight-purple"/>
   <img align="top"src="https://github-readme-stats.vercel.app/api/top-langs/?username=grachetp&layout=compact&hide=shell&theme=midnight-purple"/>
 </div>
 
