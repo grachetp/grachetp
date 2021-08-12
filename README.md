@@ -9,7 +9,7 @@ Olá, eu amo programar, resolver problemas e criar soluções da forma mais simp
  <br/> :purple_heart: &nbsp; Busco evoluir constantemente! Focado em backend .NET
  <br/> :star: &nbsp; Estudando DevOps, tenho habilidades com Azure e AWS.
  <br/> :computer: &nbsp; Minha stack: C#, .NET Framework, .NET Core, SQL Server, Azure & Angular
- <br/> 💬  &nbsp; Sobre mim: Sou comunicativo, autodidata, paciente, persistente e divertido; 
+ <br/> 💬 &nbsp; Sobre mim: Sou comunicativo, autodidata, paciente, persistente e divertido; 
  <br/> :sunglasses: &nbsp; Hobbies / Paixões : Sou apaixonado por CSGO & animais de estimação 🐱🐶
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-PedroGrachet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrograchet/)](https://www.linkedin.com/in/pedrograchet/) 
 &nbsp;
