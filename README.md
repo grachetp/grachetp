@@ -5,7 +5,7 @@ Olá, eu amo programar, resolver problemas e criar soluções da forma mais simp
 <br/> Atualmente estou com 21 anos e programo em C# com a stack da Microsoft!
 <br/> Eu amo aprender e compartilhar conhecimento!
 
- :rocket: &nbsp; **Desenvolvedor .NET Junior na Neon Pagamentos 💙🐋**
+ :rocket: &nbsp; **Desenvolvedor .NET Pleno na Neon Pagamentos 💙🐋**
  <br/> :purple_heart: &nbsp; Busco evoluir constantemente! Focado em backend .NET
  <br/> :star: &nbsp; Estudando DevOps, tenho habilidades com Azure e AWS.
  <br/> :computer: &nbsp; Minha stack: C#, .NET Framework, .NET Core, SQL Server, Azure & Angular
