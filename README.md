@@ -2,7 +2,7 @@
  
 Olá, eu amo programar, resolver problemas e criar soluções da forma mais simples possível! 🤓
 <br/> Comecei a programar sozinho em casa com 15 anos no Youtube e minha primeira linguagem de programação foi o Python! 🐍
-<br/> Atualmente estou com 21 anos e programo em C# com a stack da Microsoft!
+<br/> Atualmente estou com 22 anos e programo em C# com a stack da Microsoft!
 <br/> Eu amo aprender e compartilhar conhecimento!
 
  :rocket: &nbsp; **Desenvolvedor .NET Pleno na Neon Pagamentos 💙🐋**
