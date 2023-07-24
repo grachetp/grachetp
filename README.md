@@ -5,7 +5,7 @@ Olá, eu gosto de resolver problemas e criar soluções da forma mais simples po
 <br/> Atualmente estou com 22 anos e programo em C#, TS, GO e Python!
 
  :rocket: &nbsp; **Desenvolvedor .NET Pleno na Neon Pagamentos 💙🐋**
- <br/> 🏢 Perfil do Github da Firma: [U002142](https://github.com/U002142)
+ <br/> 🏢 &nbsp; Perfil do Github da Firma: [U002142](https://github.com/U002142)
  <br/> :purple_heart: &nbsp; Busco evoluir constantemente! Focado em backend .NET
  <br/> :star: &nbsp; Estudando DevOps, tenho habilidades com Azure e AWS.
  <br/> :computer: &nbsp; Minha stack backend: C#/.NET, TS, GO, Python, SQL e NoSQL.
