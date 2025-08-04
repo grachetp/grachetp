@@ -5,8 +5,7 @@
 <br/> This is my GitHub profile, don't expect many commits here, as I do most of my deliveries on the company's GitHub profile. I use this GitHub mainly for personal projects and studies.
 
 :rocket: Senior Fullstack Developer at CIAL D&B 💙🐋
-<br/> 🏢 My current company's GitHub profile: [pedrograchet-cial](https://github.com/pedrograchet-cial)
-<br/> 🏢 My previous company's GitHub profile: [pedrograchet-neon](https://github.com/pedrograchet-neon)
+<br/> 🏢 My previous company's GitHub profile: [pedrograchet-neon](https://github.com/pedrograchet-neon), [pedrograchet-cial](https://github.com/pedrograchet-cial)
 <br/> :purple_heart: I strive for constant growth! Focused on backend development with .NET and Golang.
 <br/> :star: Currently studying DevOps, with skills in Azure and AWS.
 <br/> :computer: My backend stack: C#/.NET, TS, GO, Python, SQL, and NoSQL.
