@@ -1,7 +1,7 @@
 <h1 align="center"> :man_technologist: Pedro Grachet 🚀 </h1>
  
 <br/> I started programming on my own at home when I was 15 years old using YouTube, and my first programming language was Python! 🐍
-<br/> I am currently 25 years old and I program in C#, TS, GO, and Python!
+<br/> I am currently 24 years old and I program in C#, TS, GO, and Python!
 <br/> This is my GitHub profile, don't expect many commits here, as I do most of my deliveries on the company's GitHub profile. I use this GitHub mainly for personal projects and studies.
 
 :rocket: Senior Fullstack Developer at CIAL D&B 💙🐋
