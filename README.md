@@ -4,7 +4,7 @@
 <br/> I am currently 24 years old and I program in C#, TS, GO, and Python!
 <br/> This is my GitHub profile, don't expect many commits here, as I do most of my deliveries on the company's GitHub profile. I use this GitHub mainly for personal projects and studies.
 
-:rocket: Senior Fullstack Developer at CIAL D&B 💙🐋
+:rocket: Backend Software Engineer at Neon Pagamentos 💙🐋
 <br/> 🏢 My previous GitHub profile: [pedrograchet-neon](https://github.com/pedrograchet-neon)
 <br/> :purple_heart: I strive for constant growth! Focused on backend development with .NET and Golang.
 <br/> :star: Currently studying DevOps, with skills in Azure and AWS.
